@@ -1,0 +1,31 @@
+Using this article i found the hERG molecules
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2814-5#article-info
+`Research papers shows
+
+A. Both in vivo and prediction computer models shows as toxic
+
+Haloperidol 'C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F'
+
+Quinnidine 'COC1=CC2=C(C=CN=C2C=C1)C@@HO'
+
+Disopyramide. 'CC(C)N(CCC(C1=CC=CC=C1)(C2=CC=CC=N2)C(=O)N)C(C)C'
+
+Chloropromazine. 'CN(C)CCCN1C2=CC=CC=C2SC3=C1C=C(C=C3)Cl'
+
+B. In vivo result is non toxic but prediction computer models shows as toxic
+
+Loratadine
+'CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1'
+
+Cimetidine 'CC1=C(N=CN1)CSCCNC(=NC)NC#N'
+
+Terazosin 'COC1=C(C=C2C(=C1)C(=NC(=N2)N3CCN(CC3)C(=O)C4CCCO4)N)OC'
+
+Spironolactone 'CC(=O)S[C@@h]1CC2=CC(=O)CC[C@@]2([C@@h]3[C@@h]1[C@@h]4CC[C@]5([C@]4(CC3)C)CCC(=O)O5)C'
+
+Cefazoline 'CC1=NN=C(S1)SCC2=C(N3C@@HSC2)C(=O)O'
+
+C. In vivo shows as toxic but in prediction computer model shows as non toxic
+
+Sotalol
+' CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O'`
